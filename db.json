@@ -4,12 +4,13 @@
       "id": 0,
       "name": "kelvin"
     },
-     {
+    {
       "id": 1,
       "name": "joel"
-    },
+    }
     
   ],
+  
   "profile": {
     "name": "typicode"
   }
