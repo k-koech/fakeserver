@@ -1,9 +1,13 @@
 {
-  "posts": [
+  "users": [
+    {
+      "id": 0,
+      "name": "kelvin"
+    },
     {
       "id": 1,
-      "title": "hello"
-    }
+      "name": "joel"
+    },
   ],
   "profile": {
     "name": "typicode"
