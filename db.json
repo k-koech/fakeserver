@@ -11,7 +11,12 @@
     
   ],
   
-  "profile": {
+  "profile": [
+    {
     "name": "typicode"
   }
+  ]
+  
+  
+  
 }
